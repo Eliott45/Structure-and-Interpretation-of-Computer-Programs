@@ -1,1 +1,1 @@
-Structure and Interpretation of Computer Programs
+Exercises from the book "Structure and Interpretationof Computer Programs" 
